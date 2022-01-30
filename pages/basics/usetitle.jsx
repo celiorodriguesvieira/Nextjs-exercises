@@ -7,6 +7,14 @@ export default function useTitle(){
             title = "Página de Cadastro"
             description = "Incluir, alterar e excluir coisas!"
             />
+
+            <Title 
+            title = "Página de Login"
+            description = "Informe seu email e senha"
+            />
         </div>
+
+
+
     )
 }
