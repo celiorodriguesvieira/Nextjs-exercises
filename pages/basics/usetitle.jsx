@@ -11,6 +11,7 @@ export default function useTitle(){
             <Title 
             title = "Página de Login"
             description = "Informe seu email e senha"
+            small = {true}
             />
         </div>
 
